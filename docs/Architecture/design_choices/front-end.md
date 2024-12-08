@@ -2,13 +2,13 @@
 sidebar_position: 2
 sidebar_label: "Front-end"
 ---
-# **Front-end Architecture Overview**
+# Front-end Architecture Overview
 
 This section highlights the front-end technologies and tools used in the project, emphasizing efficiency, responsiveness, and a streamlined development process.
 
 ---
 
-## **🔧 Technologies & Tools**
+## 🔧 Technologies & Tools
 
 ### **1. React**
 - Chosen for its efficient **component-based architecture**, enabling:

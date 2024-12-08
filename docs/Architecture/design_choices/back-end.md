@@ -3,7 +3,7 @@ sidebar_position: 1
 sidebar_label: "Back-end"
 ---
 
-# **Back-end Architecture Overview**
+# Back-end Architecture Overview
 
 This section outlines the key technologies, tools, and architectural principles used in the back-end development of the project, emphasizing scalability, maintainability, and streamlined development.
 
