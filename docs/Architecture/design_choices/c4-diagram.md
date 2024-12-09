@@ -15,3 +15,4 @@ The **C4 Model** is a visual framework for describing the architecture of softwa
 The C4 model simplifies architectural diagrams by emphasizing clarity, scalability, and context, making it easier for technical and non-technical stakeholders to understand system design.
 
 <!-- TO-DO : Add c4(which is more like c3) diagram-->
+![alt text](img/c3-diagram.jpg)
