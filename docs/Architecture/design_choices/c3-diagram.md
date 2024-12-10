@@ -33,6 +33,8 @@ The diagram highlights the **Frontend Application (React.js)** communicating wit
 
 ---
 
+<!--TO-DO : review diagram-->
+
 ![C3 Diagram](img/c3-diagram.jpg)
 
 ---
