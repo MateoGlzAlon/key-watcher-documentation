@@ -5,6 +5,7 @@ sidebar_position: 1
 # Key Watcher Introduction
 
 
+![Dashboard example](dashboardExample.png)
 ## Overview
 
 Key Watcher is a dashboard developed during the 2024/2025 academic year at **Fontys University of Applied Sciences**. The project aims to provide **Bas World** with a user-friendly interface to monitor and analyze incoming data streams to their web application. Bas World is a leading platform for buying and selling commercial vehicles and equipment worldwide, with over 60 years of experience and a global reach.
