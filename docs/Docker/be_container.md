@@ -51,7 +51,6 @@ You should see `<image_name>` in the output, indicating the image was successful
     docker run -d --name keywatcher_backend_container -p 8080:8080 <image_name>
     ```
 
-    **[You can review the environment variables here](../Backend/environment_variables.md)**
 
 You now have a container called `keywatcher_backend_container` running the image `<image_name>`.
     
